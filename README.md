@@ -1,5 +1,5 @@
 
-# Hi, I’m Vojtěch (Vojta) Kuzdas 👋  [1](https://github.com/vkuzdas/vkuzdas)
+# Hi, I’m Vojta Kuzdas 👋  [1](https://github.com/vkuzdas/vkuzdas)
 
 🌱 Recently got my Master's degree at **FEL CTU**  [1](https://github.com/vkuzdas/vkuzdas)  
 🐈‍🏍 Worked for **6 years as a Java Developer at CGI** (part‑time)  [1](https://github.com/vkuzdas/vkuzdas)  
