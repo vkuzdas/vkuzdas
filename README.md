@@ -1,8 +1,8 @@
 
 # Hi, I'm Vojta Kuzdas 👋
  
-🧑‍💻 SWE in Microsoft, working on Sovereign Clouds and Copilot
-🎓 Master's degree at **FEL CTU**
+🧑‍💻 SWE in Microsoft, working on Sovereign Clouds and Copilot  
+🎓 Master's degree at **FEL CTU**  
 ☕ 6 yr experience building distributed payment systems in Java
 
 I like building practical software systems — from **distributed systems** to **data/ML prototypes** and **mobile apps**.
